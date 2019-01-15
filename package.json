@@ -1,0 +1,13 @@
+{
+  "name": "starthtml",
+  "version": "1.0.0",
+  "description": "Create html boilerplate.",
+  "main": "index.js",
+  "repository": "https://github.com/kra8/starthtml",
+  "author": "K.Asai <kra.ceifer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.19.0"
+  }
+}
